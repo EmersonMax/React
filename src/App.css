@@ -1,0 +1,20 @@
+.App .Cards{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    border: 1px solid #DB8024;
+    
+
+}
+.App .Head{
+    margin-bottom: 30px;
+    background-color:#8024DB ;
+    color:white;
+    justify-content: centerss;
+}
+.App .Head h1{
+    text-justify:distribute-all-lines;
+    text-transform: uppercase;
+    text-align: center;
+
+}
